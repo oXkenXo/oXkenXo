@@ -9,7 +9,7 @@
 <br />
 
 <!-- Gojo gif (di-host di repo biar PASTI muncul) -->
-<img src="./gojo.gif" width="380" alt="Gojo" />
+<img src="./jujutsu-kaisen-gojo" width="380" alt="Gojo" />
 
 <br /><br />
 
