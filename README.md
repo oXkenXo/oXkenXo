@@ -1,116 +1,73 @@
-<div align="center">
+<h1 data-importer="text" align="center">K34N2X Here !</h1>
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1a1a2e,50:16213e,100:0f3460&text=K34N2X%20Here%20!&fontSize=60&fontColor=FFFFFF&fontAlignY=35&desc=Informatics%20Student%20%7C%20Full%20Stack%20%26%20Security%20Enthusiast&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+###
 
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.+Repeat.;Web+Development+%F0%9F%8C%90;Cybersecurity+%F0%9F%94%90;Data+Science+%F0%9F%93%8A" alt="Typing SVG" />
-
-<br />
-
-<!-- Gojo gif -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dmejM5cTdjb3R2eTFxOTNmZnZ1eTV0aTQ4MGQwNnM5N2lsd2t1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qrtxxe638kXlhKBDxg/giphy.gif" width="380" alt="Gojo" />
-
-<br /><br />
-
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=oXkenXo&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS" alt="profile views" />
-
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
 
----
+###
 
-## 👨‍💻 About Me
-
-```go
-package main
-
-func main() {
-    keanu := Developer{
-        Name:      "Keanu (K34N2X)",
-        Education: "Informatics Student @ Telkom University 🎓",
-        Location:  "Indonesia 🇮🇩",
-        Interests: []string{"Web Development", "Cybersecurity", "Data Science", "Open Source"},
-        Learning:  []string{"Full Stack Dev", "Backend Architecture", "RESTful API", "Software Security"},
-        Motto:     "Build. Learn. Improve. Repeat. ⚡",
-    }
-    keanu.KeepGrinding()
-}
-```
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=go,cpp,py,js,ts,java&theme=dark" alt="languages" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,bootstrap,tailwind&theme=dark" alt="frontend" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=go,nodejs,express,supabase&theme=dark" alt="backend" />
-
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="database" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark" alt="tools" />
-
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/keanu-fibie-dimasyqi-ab1471335/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="keanu3971@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
----
+###
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=oXkenXo&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oXkenXo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="top languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=oXkenXo&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="streak stats" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oXkenXo&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="activity graph" />
-
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/oxKenXo/oxKenXo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/oxKenXo/oxKenXo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oXkenXo/oXkenXo/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oXkenXo/oXkenXo/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/oXkenXo/oXkenXo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxKenXo/oxKenXo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oxKenXo/oxKenXo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oxKenXo/oxKenXo/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/oxKenXo/oxKenXo/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/keanu-fibie-dimasyqi-ab1471335/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:keanu3971@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/oXkenXo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f3460,50:16213e,100:1a1a2e&section=footer" width="100%" />
+###
