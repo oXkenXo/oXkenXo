@@ -3,27 +3,25 @@ name: Generate Pacman
 on:
   schedule:
     - cron: "30 0 * * *"   # tiap hari jam 00:30 UTC
-  workflow_dispatch:
+  workflow_dispatch:        # bisa dijalankan manual
   push:
     branches:
       - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
     permissions:
       contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-      - name: Generate pacman animation
-        uses: abozanona/pacman-contribution-graph@master
+      - name: Generate pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?color_dots=#ffee00,#ffaa00,#ff7700,#ff5500&color_pacman=#ffff00
 
-      - name: Push to pacman-output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVGs to the pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: pacman-output
           build_dir: dist
